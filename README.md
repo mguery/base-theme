@@ -41,7 +41,6 @@ Same files from [Underscores](http://underscores.me) theme, plus:
 
 **Other files**
 
-- [README.html]() - style guide to view default settings and screenshots
 - [WPGulp](https://github.com/ahmadawais/WPGulp) - .gitignore, gulpfile.js, package.json
 - [Underscores Readme](https://github.com/Automattic/_s/blob/master/README.md) - how to use Underscores
 
@@ -49,11 +48,11 @@ Same files from [Underscores](http://underscores.me) theme, plus:
 
 ### Credits
 
-[Underscores.me](http://underscores.me)
-[Normalize v7](https://github.com/necolas/normalize.css)
-[WPGulp](https://github.com/ahmadawais/WPGulp)
-[Skeleton Grid](http://getskeleton.com)
-[Font Awesome v5](https://github.com/FortAwesome/Font-Awesome)
+- [Underscores.me](http://underscores.me)
+- [Normalize v7](https://github.com/necolas/normalize.css)
+- [WPGulp](https://github.com/ahmadawais/WPGulp)
+- [Skeleton Grid](http://getskeleton.com)
+- [Font Awesome v5](https://github.com/FortAwesome/Font-Awesome)
 
 * * *
 
