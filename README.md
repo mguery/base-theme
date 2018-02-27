@@ -36,7 +36,6 @@ Same files from [Underscores](http://underscores.me) theme, plus:
 
 **Page Templates**
 
-- full-width.php - no sidebar
 - two-columns.php - right sidebar
 
 **Other files**
