@@ -1,0 +1,25 @@
+
+.site-footer {
+	background-color: $color__background-footer;
+	color: $color__text-footer;
+	font-family: $font__main;
+	font-size: 14px;
+	font-size: 1.4rem;
+	font-weight: 300;
+	line-height: 1;
+	padding: 60px 0;
+	text-align: center;
+}
+
+.site-footer p {
+	margin-bottom: 0;
+}
+
+.site-footer a {
+	color: $color__text-footer;
+}
+
+.site-footer a:focus,
+.site-footer a:hover {
+	color: $color__text-footer-hover;
+}

@@ -1,0 +1,29 @@
+
+/* Make sure logo link wraps around logo image. */
+
+.custom-logo-link {
+	display: inline-block;
+}
+
+.site-branding {
+	padding-bottom: 30px;
+	padding-top: 30px;
+	text-align: center;
+}
+
+.site-description,
+.site-title {
+	font-weight: 500;
+	line-height: 1.2;
+	margin-bottom: 0;
+}
+
+.site-description {
+	font-size: 20px;
+	font-size: 2rem;
+}
+
+.site-title {
+	font-size: 36px;
+	font-size: 3.6rem;
+}

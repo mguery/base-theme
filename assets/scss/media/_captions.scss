@@ -1,0 +1,28 @@
+
+.wp-caption {
+  margin: 0 0 1em;
+  max-width: 100%;
+}
+.wp-caption.alignleft {
+  margin-right: 1.5em;
+}
+.wp-caption.alignright {
+  margin-left: 1.5em;
+}
+.wp-caption.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.wp-caption img[class*="wp-image-"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wp-caption-text {
+  color: #979797;
+  font-style: italic;
+  margin: 0.8075em 0 0;
+  text-align: center;
+}

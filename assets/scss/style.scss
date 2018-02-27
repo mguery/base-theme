@@ -1,0 +1,124 @@
+/*!
+Theme Name: Base Theme
+Theme URI: http://github.com/mguery/base-theme
+Author: Marjy Guery
+Author URI: http://msguery.net
+Description: Base Theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: basetheme
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Base Theme is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://github.com/necolas/normalize.css
+
+Grid by Skeleton http://getskeleton.com
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+  ## Copy
+  ## Code
+  ## Headings
+# Layout
+  ## Grid
+# Elements
+  ## Buttons
+  ## Forms
+  ## Horizontal Rule
+  ## Tables
+# Navigation
+	## Links
+  ## Menus
+  ## Pagination
+# Modules  
+  ## Accessibility
+  ## Alignments
+  ## Clearings
+  ## Infinite scroll
+# Content
+  ## Header
+  ## Posts & Pages
+  ## Comments
+  ## Widgets
+  ## Footer
+# Media
+  ## Audio
+  ## Images
+	## Captions
+  ## Galleries
+# Print Styles
+--------------------------------------------------------------*/
+
+@import "variables/variables";
+@import "mixins/mixins";
+
+/*--------------------------------------------------------------
+# Normalize 
+--------------------------------------------------------------*/
+
+@import "normalize";
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+
+@import "typography/typography";
+
+/*--------------------------------------------------------------
+# Layout
+--------------------------------------------------------------*/
+
+@import "layout/layout";
+
+/*--------------------------------------------------------------
+# Elements
+--------------------------------------------------------------*/
+
+@import "elements/elements";
+
+/*--------------------------------------------------------------
+# Navigation
+--------------------------------------------------------------*/
+
+@import "navigation/navigation";
+
+/*--------------------------------------------------------------
+# Modules
+--------------------------------------------------------------*/
+
+@import "modules/modules";
+
+/*--------------------------------------------------------------
+# Content
+--------------------------------------------------------------*/
+
+@import "content/content";
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
+
+@import "media/media";
+
+/*--------------------------------------------------------------
+# Media Queries
+--------------------------------------------------------------*/
+
+@import "media-queries";
+
+/*--------------------------------------------------------------
+# Print Styles
+--------------------------------------------------------------*/
+
+@import "print-styles/print-styles";
