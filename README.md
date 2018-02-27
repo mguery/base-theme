@@ -38,10 +38,13 @@ Same files from [Underscores](http://underscores.me) theme, plus:
 
 - two-columns.php - right sidebar
 
-**Other files**
+**Other**
 
-- [WPGulp](https://github.com/ahmadawais/WPGulp) - .gitignore, gulpfile.js, package.json
+- front-page.php - style guide with default stylings 
+- BaseTheme images - [Sample page](https://github.com/mguery/base-theme/blob/master/assets/images/sample.png), [Single post ](https://github.com/mguery/base-theme/blob/master/assets/images/single-post.png), [Blog page](https://github.com/mguery/base-theme/blob/master/assets/images/blog-page.png), [Two columns template](https://github.com/mguery/base-theme/blob/master/assets/images/right-sidebar.png)
+- [WPGulp](https://github.com/ahmadawais/WPGulp) files - .gitignore, gulpfile.js, package.json
 - [Underscores Readme](https://github.com/Automattic/_s/blob/master/README.md) - how to use Underscores
+
 
 * * *
 
@@ -51,7 +54,7 @@ Same files from [Underscores](http://underscores.me) theme, plus:
 - [Normalize v7](https://github.com/necolas/normalize.css)
 - [WPGulp](https://github.com/ahmadawais/WPGulp)
 - [Skeleton Grid](http://getskeleton.com)
-- [Font Awesome v5](https://github.com/FortAwesome/Font-Awesome)
+- [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
 
 * * *
 
@@ -64,6 +67,7 @@ Same files from [Underscores](http://underscores.me) theme, plus:
 
 ### Tips
 
+- [StayInTech](https://stayintech.com/checklists) - checklists for SEO, Usability, and UX Process
 - [The best free tools for WordPress developers](https://getflywheel.com/layout/the-best-free-tools-for-wordpress-developers/)
 - [How To Reset & Rebuild WordPress Theme CSS & Define Your Layouts](https://themeshaper.com/2012/11/12/how-to-reset-rebuild-wordpress-theme-css-define-your-layouts/)
 - [Be Watchful: PHP And WordPress Functions That Can Make Your Site Insecure](https://www.smashingmagazine.com/2018/01/php-wordpress-functions-site-insecure/)
@@ -73,4 +77,3 @@ Same files from [Underscores](http://underscores.me) theme, plus:
 * * *
 
 Any questions or feedback, [send an email](mailto:marjory@msguery.com) or [tweet me](http://twitter.com/msguery).
-base-theme
